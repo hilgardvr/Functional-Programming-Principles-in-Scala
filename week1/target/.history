@@ -1,0 +1,3 @@
+console
+submit hilgardvr@gmail.com Q6bDvYO50MrrMUaO
+def sum(f: Int => Int, a: Int, b: Int) = {

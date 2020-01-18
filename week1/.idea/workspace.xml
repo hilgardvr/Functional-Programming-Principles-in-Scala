@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e12a5d7-18c7-4fbd-942d-93dc45322090" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun1-recfun" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun1-recfun" type="f1a62948:ProjectNode" />
+                <item name="progfun1-recfun" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun1-recfun" type="f1a62948:ProjectNode" />
+                <item name="progfun1-recfun" type="2d1252cf:ModuleNode" />
+                <item name="sbt tasks" type="d9357504:SbtViewContributor$SbtTasksGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun1-recfun" type="f1a62948:ProjectNode" />
+                <item name="progfun1-recfun-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun1-recfun" type="f1a62948:ProjectNode" />
+                <item name="progfun1-recfun-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VkXuVNZODvXZ50OmP7GkGNDYAf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Application.RecFun">
+    <configuration name="RecFun" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFun" />
+      <module name="progfun1-recfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecFunSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-recfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="recfun" />
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFunSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecFunSuite.countChange$colon$u0020sorted$u0020CHF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-recfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="recfun" />
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFunSuite" />
+      <option name="METHOD_NAME" value="countChange$colon$u0020sorted$u0020CHF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecFunSuite.countChange$colon$u0020unsorted$u0020CHF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-recfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="recfun" />
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFunSuite" />
+      <option name="METHOD_NAME" value="countChange$colon$u0020unsorted$u0020CHF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecFunSuite.pascal$colon$u0020col$eq1$u002Crow$eq2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-recfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="recfun" />
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFunSuite" />
+      <option name="METHOD_NAME" value="pascal$colon$u0020col$eq1$u002Crow$eq2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RecFun" />
+        <item itemvalue="JUnit.RecFunSuite" />
+        <item itemvalue="JUnit.RecFunSuite.pascal$colon$u0020col$eq1$u002Crow$eq2" />
+        <item itemvalue="JUnit.RecFunSuite.countChange$colon$u0020unsorted$u0020CHF" />
+        <item itemvalue="JUnit.RecFunSuite.countChange$colon$u0020sorted$u0020CHF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-recfun" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="recfun [file:/home/hilgard/IdeaProjects/recfun/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-recfun-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429354276000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1861596165" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e12a5d7-18c7-4fbd-942d-93dc45322090" name="Default Changelist" comment="" />
+      <created>1577798289614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577798289614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577893848422">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577893848422" />
+    <state x="738" y="469" width="433" height="175" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1577798432723">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="738" y="469" width="433" height="175" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577798432723" />
+    <state x="643" y="303" width="604" height="521" key="FileChooserDialogImpl" timestamp="1577798425538">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="643" y="303" width="604" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1577798425538" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1579332443395">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579332443395" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1577896441654" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1579332443394">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579332443394" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1577896441654" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1579332443393">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579332443393" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1577896441653" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1579332443394">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579332443394" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1577896441654" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1577798416692">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1577798416692" />
+    <state x="441" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1579335942927">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="441" y="276" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579335942927" />
+    <state x="620" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577893656822" />
+    <state x="624" y="246" width="662" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577895046456">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="246" width="662" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1577895046455" />
+    <state x="443" y="190" width="672" height="478" key="search.everywhere.popup" timestamp="1579330252497">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="443" y="190" width="672" height="478" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579330252497" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577895738761" />
+  </component>
+</project>
